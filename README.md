@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A passionate software engineering student from Argentina</h3>
 
-- 🌱 I’m currently learning **JavasScript, C# and Haskel.**
+- 🌱 I’m currently learning **JavasScript, C# and Haskell.**
 
 - 👨‍💻 All of my projects are available at [https://portfoliocellamarematias.herokuapp.com/](https://portfoliocellamarematias.herokuapp.com/)
 
