@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
-<h3 align="center">A passionate software engineering student from Argentina</h3>
+<h3 align="center">A passionate software engineering student</h3>
 
 - 🌱 I’m currently learning **JavasScript, C# and Haskell.**
 
