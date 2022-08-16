@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🌱 I’m currently learning **JavasScript, C# and Haskell.**
+- 🌱 I’m currently learning **React Native.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliocellamarematias.herokuapp.com/](https://portfoliocellamarematias.herokuapp.com/)
+- 👨‍💻 My portfolio [https://portfoliocellamarematias.herokuapp.com/](https://portfoliocellamarematias.herokuapp.com/)
 
 - 📫 How to reach me **cellamarematias@gmail.com**
 
