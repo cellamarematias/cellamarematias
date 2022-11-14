@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Java.**
 
 - 👨‍💻 My portfolio [https://matiascellamare.vercel.app/](https://matiascellamare.vercel.app/)
 
-- 📫 How to reach me **cellamarematias@gmail.com**
+- 📫 How to reach me **cellamarematias@gmail.com** || **https://www.linkedin.com/in/matiascellamare/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
