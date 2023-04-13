@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">I'm a software engineering student with a passion for technology, programming, and design. I'm currently learning Java and specializing in frontend development. I love creating challenging projects, designing attractive interfaces, and improving the user experience. You can visit my portfolio at the link above to see some of my projects.</h3>
 
 - 🌱 I’m currently learning **Java.**
 
