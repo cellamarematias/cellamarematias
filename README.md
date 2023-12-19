@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">I'm a software developer. I'm currently learning .NET and specializing in fullStack development. I love creating challenging projects, designing attractive interfaces, and improving the user experience.</h3>
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 My portfolio [https://matiascellamare.vercel.app/](https://matiascellamare.vercel.app/)
 
